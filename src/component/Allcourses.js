@@ -34,7 +34,7 @@ const Allcourses = () => {
   const [courses, setCourses] = useState([]);
 
 const updateCourses=(id)=>{
-  setCourses(courses.filter((c)=>c.id != id))
+  setCourses(courses.filter((c)=>c.id !== id))
 }
 
   return (

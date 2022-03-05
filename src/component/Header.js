@@ -46,7 +46,7 @@ const Header = () => {
           <div class="row">
             <div class="col-sm-2">
               <img
-                src="src\images\logoleft.png"
+                src="https://www.nplindia.org/wp-content/uploads/2021/09/NPL-logo-300x298.png"
                 class="img-fluid mx-5"
                 alt="nplindia"
               />
@@ -63,7 +63,7 @@ const Header = () => {
             </div>
             <div class="col-sm-2">
               <img
-                src="./images/logo-right.png"
+                src="https://www.nplindia.org/wp-content/uploads/2021/10/CSIR-logo-300x300.png"
                 class="img-fluid mx-5"
                 alt="nplindia"
               />

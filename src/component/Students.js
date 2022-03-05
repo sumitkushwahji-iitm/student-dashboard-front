@@ -1,9 +1,11 @@
 
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect} from "react";
 import base_url from "../api/bootapi";
 import axios from "axios";
 import { toast } from "react-toastify";
 import { Link } from "react-router-dom";
+import Pdf from '../pdf/uppsc_programmer.pdf';
+
 
 const Students = () => {
   let i=1;
@@ -64,7 +66,11 @@ const Students = () => {
     <Link to={{ pathname: "localhost:9090" }} >hello</Link>
      */}
      <Link className="list-group-item list-group-item action" tag="a" to="/users/export/pdf">view pdf</Link>
+       
+     <Link to={Pdf} target="_blank"role="link">View  (Advt.)</Link>
         </div>
+
+        
     )
 }
 
