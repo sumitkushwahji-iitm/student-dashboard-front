@@ -65,7 +65,7 @@ const Header = () => {
               <img
                 src="https://www.nplindia.org/wp-content/uploads/2021/10/CSIR-logo-300x300.png"
                 class="img-fluid mx-5"
-                alt="nplindia"
+                alt="nplindias"
               />
             </div>
           </div>
