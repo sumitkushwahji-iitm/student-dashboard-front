@@ -20,49 +20,49 @@ const ProjectStaff = () => {
       <td>Sumit Kushwah</td>
       <td>10921</td>
       <td>Project Assistant -||</td>
-      <td>31000+HRA</td>
+      <td>25000+HRA</td>
     </tr>
     <tr>
       <th scope="row">2</th>
       <td>Sanjeev Gautam</td>
       <td>N/A</td>
       <td>Project Assistant -||</td>
-      <td>31000+HRA</td>
+      <td>25000+HRA</td>
     </tr>
     <tr>
       <th scope="row">3</th>
       <td>Abhilash Dwiedi</td>
       <td>N/A</td>
       <td>Project Assistant -||</td>
-      <td>31000+HRA</td>
+      <td>25000+HRA</td>
     </tr>
     <tr>
       <th scope="row">4</th>
       <td>vishal yadav</td>
       <td>N/A</td>
       <td>Project Assistant -||</td>
-      <td>31000+HRA</td>
+      <td>25000+HRA</td>
     </tr>
     <tr>
       <th scope="row">5</th>
       <td>Bhanu</td>
       <td>N/A</td>
       <td>Project Assistant -||</td>
-      <td>31000+HRA</td>
+      <td>25000+HRA</td>
     </tr>
     <tr>
       <th scope="row">6</th>
       <td>Shagufta</td>
       <td>N/A</td>
       <td>Project Assistant -||</td>
-      <td>31000+HRA</td>
+      <td>25000+HRA</td>
     </tr>
     <tr>
       <th scope="row">7</th>
       <td>Sonali</td>
       <td>N/A</td>
       <td>Project Assistant -||</td>
-      <td>31000+HRA</td>
+      <td>25000+HRA</td>
     </tr>
     <tr>
       <th scope="row">8</th>
